@@ -1,5 +1,5 @@
 ### Hi, I'm iromonek39👋🏻🧑🏻‍💻
-
+- 🌱 I'm currently learning React, Next.js, TypeScript
 ***
 
 <!--
